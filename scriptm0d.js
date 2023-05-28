@@ -2,7 +2,7 @@
 var link = document.querySelector('#elCopyright a');
 
 // Change the text of the link element to "Copyright ©2023 Modycore All Rights Reserved."
-link.innerHTML = 'Copyright ©2023 Modycore All Rights Reserved.';
+link.innerHTML = 'Copyright ©2023 Modycore.com All Rights Reserved.';
 
 // Change the title attribute of the link element
 link.title = 'Modycore';
