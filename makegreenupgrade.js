@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if (currentUrl.includes(upgradeWord)) {
       var element = document.querySelector('[data-navitem-id="47"]');
       if (element) {
-        element.style.color = "#59ff00";
+        element.style.color = "#2ecc71";
       }
     }
   });
